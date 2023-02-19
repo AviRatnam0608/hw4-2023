@@ -135,8 +135,8 @@ img {
     grid-column: 2 / span 2;
   }
   /* Requirement 15 code here -- Do not remove this comment. */
-  img {
-    height: 100%;
+  div {
+    overflow: hidden;
   }
 }
 
